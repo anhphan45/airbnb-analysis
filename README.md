@@ -2,6 +2,8 @@
 
 The analysis offers valuable insights for Airbnb hosts, potential guests, and the platform itself. By understanding the dynamics of listings in Paris, stakeholders can make informed decisions to optimize their experiences and operations.
 
+The listing data is from [The Maven Data PlayGround](https://mavenanalytics.io/data-playground?order=date_added%2Cdesc&search=airbnb)
+
 ### Data Preparation
 **Filtering:** The dataset is filtered to include only listings from Paris.
 
